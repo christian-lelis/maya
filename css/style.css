@@ -16,7 +16,7 @@ section{
 }
 .ramo_direita{
     background: url(../assets/ramos/25.png),linear-gradient(to bottom, var(--redDark),
-    #0f0f0f, var(--redDark));
+    #0f0f0f);
     background-repeat: no-repeat;
     background-position: right center;
 }
